@@ -11,8 +11,7 @@
 *.secret
 authorized_key.json
 
-files/*.pub
-roles/*
+*.pub
 
 *.DS_Store
 ._*
